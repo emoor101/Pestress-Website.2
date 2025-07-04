@@ -1,0 +1,8 @@
+body{font-family:sans-serif;margin:0;background:#fff;color:#333;}
+header{background:#000;color:#fff;padding:20px;position:sticky;top:0;}
+header .logo{height:40px;vertical-align:middle;}
+nav a{color:#fff;margin:0 10px;text-decoration:none;}
+.hero{padding:60px;text-align:center;}
+form input,form textarea{display:block;width:80%;margin:10px auto;padding:10px;}
+button{background:#0055ff;color:#fff;border:none;padding:10px 20px;cursor:pointer;}
+iframe{width:80%;height:300px;display:block;margin:20px auto;}
